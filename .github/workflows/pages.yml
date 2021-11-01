@@ -24,9 +24,9 @@ jobs:
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
-        git config user.name Charles
-        git config user.email hi@charles-t.com
-        git remote add gh-pages-remote https://x-access-token:7afc0e11e84aae083ddc6714b8194a95f3b8e7d0@github.com/y1feng200156/feeds.git
+        git config user.name $GITHUB_ACTOR
+        git config user.email $GITHUB_ACTOR@users.noreply.github.com
+        git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
         git fetch --no-recurse-submodules
         git worktree add ./gh-pages gh-pages
         cd gh-pages
