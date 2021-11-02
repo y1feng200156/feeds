@@ -98,3 +98,8 @@ title = "重生之都市修仙"
 url = "https://cn.baozimh.com/comic/zhongshengzhidushixiuxian-daxingdaodongman"
 entrySelector = ".supporting-text.mt-2"
 titleSelector = "a"
+[xingwushenjue]
+title = "星武神决"
+url = "https://cn.baozimh.com/comic/xingwushenjue-taxuedongman"
+entrySelector = ".supporting-text.mt-2"
+titleSelector = "a"
