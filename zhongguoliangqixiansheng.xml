@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhongguoliangqixiansheng-quanyingsheng</id>
     <title>中国惊奇先生</title>
-    <updated>2021-11-02T05:36:55.512Z</updated>
+    <updated>2021-11-03T02:24:41.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[1211 站队]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1210</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1210"/>
-        <updated>2021-11-02T04:11:29.106Z</updated>
+        <title type="html"><![CDATA[1212 小二出奇招]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1211</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1211"/>
+        <updated>2021-11-03T02:23:44.836Z</updated>
         <content type="html"><![CDATA[<div class="tag-list" data-v-025e2409=""><span class="tag" data-v-025e2409="">连载中</span> <span class="tag" data-v-025e2409="">国漫</span> <span class="tag" data-v-025e2409="">
                   灵异
                 </span><span class="tag" data-v-025e2409="">
                   搞笑
                 </span></div> <div data-v-025e2409=""><span data-v-025e2409="">
                   最新：
-                  <a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1210" rel="noreferrer" data-v-025e2409="">1211 站队</a> <em style="color:var(--link-hover-color);" data-v-025e2409="">
-                    (2021年11月01日 更新)
+                  <a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1211" rel="noreferrer" data-v-025e2409="">1212 小二出奇招</a> <em style="color:var(--link-hover-color);" data-v-025e2409="">
+                    (10小时前 更新)
                   </em></span></div>]]></content>
     </entry>
 </feed>
