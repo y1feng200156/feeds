@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangpaiyushi-tongyao</id>
     <title>王牌御史</title>
-    <updated>2021-11-03T02:24:41.267Z</updated>
+    <updated>2021-11-03T04:40:05.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
     <entry>
@@ -10,16 +10,167 @@
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=596</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=596"/>
         <updated>2021-11-02T04:11:20.441Z</updated>
-        <content type="html"><![CDATA[<div class="tag-list" data-v-025e2409=""><span class="tag" data-v-025e2409="">连载中</span> <span class="tag" data-v-025e2409="">国漫</span> <span class="tag" data-v-025e2409="">
-                  玄幻
-                </span><span class="tag" data-v-025e2409="">
-                  
-                </span><span class="tag" data-v-025e2409="">
-                  都市
-                </span></div> <div data-v-025e2409=""><span data-v-025e2409="">
-                  最新：
-                  <a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=596" rel="noreferrer" data-v-025e2409="">581，两路开花</a> <em style="color:var(--link-hover-color);" data-v-025e2409="">
-                    (2021年10月31日 更新)
-                  </em></span></div>]]></content>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=596" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">581，两路开花</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[580，见血你就输了]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=595</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=595"/>
+        <updated>2021-11-03T04:38:51.275Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=595" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">580，见血你就输了</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[579，亚刹离]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=594</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=594"/>
+        <updated>2021-11-03T04:38:51.275Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=594" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">579，亚刹离</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[578,大猎场和我的爱]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=593</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=593"/>
+        <updated>2021-11-03T04:38:51.275Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=593" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">578,大猎场和我的爱</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[577,这是啥地方啊……]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=592</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=592"/>
+        <updated>2021-11-03T04:38:51.275Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=592" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">577,这是啥地方啊……</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[576，希纱你每天在哪过夜啊？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=591</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=591"/>
+        <updated>2021-11-03T04:38:51.276Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=591" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">576，希纱你每天在哪过夜啊？</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[575，似曾相识的画面……]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=590</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=590"/>
+        <updated>2021-11-03T04:38:51.277Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=590" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">575，似曾相识的画面……</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[574，西门事件的尾声（下）]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=589</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=589"/>
+        <updated>2021-11-03T04:38:51.278Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=589" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">574，西门事件的尾声（下）</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[573，西门事件的尾声（上）]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=588</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=588"/>
+        <updated>2021-11-03T04:38:51.279Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=588" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">573，西门事件的尾声（上）</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[572，双倍的快乐？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=587</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=587"/>
+        <updated>2021-11-03T04:38:51.280Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=587" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">572，双倍的快乐？</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[571，与时俱进]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=586</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=586"/>
+        <updated>2021-11-03T04:38:51.281Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=586" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">571，与时俱进</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[570，味道]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=585</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=585"/>
+        <updated>2021-11-03T04:38:51.282Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=585" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">570，味道</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[569，做人要诚实……]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=584</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=584"/>
+        <updated>2021-11-03T04:38:51.283Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=584" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">569，做人要诚实……</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[568，失足少女]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=583</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=583"/>
+        <updated>2021-11-03T04:38:51.284Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=583" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">568，失足少女</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[567，确定]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=582</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=582"/>
+        <updated>2021-11-03T04:38:51.285Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=582" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">567，确定</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[564，小树林的激战2]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=581</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=581"/>
+        <updated>2021-11-03T04:38:51.288Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=581" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">564，小树林的激战2</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[563,小树林的激战]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=580</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=580"/>
+        <updated>2021-11-03T04:38:51.289Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=580" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">563,小树林的激战</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[562，听说主角才能开后宫]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=579</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=579"/>
+        <updated>2021-11-03T04:38:51.290Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=579" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">562，听说主角才能开后宫</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[561，60年的守候]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=578</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=578"/>
+        <updated>2021-11-03T04:38:51.291Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=578" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">561，60年的守候</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[560，板上钉钉！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=577</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=577"/>
+        <updated>2021-11-03T04:38:51.292Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=577" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">560，板上钉钉！</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[559,青梅竹马不如天降]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=576</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=576"/>
+        <updated>2021-11-03T04:38:51.295Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=576" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">559,青梅竹马不如天降</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[558，守墓人的关系你不懂]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=575</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=575"/>
+        <updated>2021-11-03T04:38:51.296Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=575" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">558，守墓人的关系你不懂</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[557，熟悉的味道]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=574</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=574"/>
+        <updated>2021-11-03T04:38:51.296Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=574" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">557，熟悉的味道</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[556，熟悉的眼神]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=573</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=573"/>
+        <updated>2021-11-03T04:38:51.297Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=573" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">556，熟悉的眼神</span></div></a>]]></content>
     </entry>
 </feed>

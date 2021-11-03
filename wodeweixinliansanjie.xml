@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2021-11-03T02:24:41.276Z</updated>
+    <updated>2021-11-03T04:40:05.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
     <entry>
@@ -10,16 +10,167 @@
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=454</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=454"/>
         <updated>2021-11-03T02:23:28.707Z</updated>
-        <content type="html"><![CDATA[<div class="tag-list" data-v-025e2409=""><span class="tag" data-v-025e2409="">连载中</span> <span class="tag" data-v-025e2409="">国漫</span> <span class="tag" data-v-025e2409="">
-                  搞笑
-                </span><span class="tag" data-v-025e2409="">
-                  
-                </span><span class="tag" data-v-025e2409="">
-                  生活
-                </span></div> <div data-v-025e2409=""><span data-v-025e2409="">
-                  最新：
-                  <a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=454" rel="noreferrer" data-v-025e2409="">第452话 他可以越级战斗</a> <em style="color:var(--link-hover-color);" data-v-025e2409="">
-                    (10小时前 更新)
-                  </em></span></div>]]></content>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=454" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第452话 他可以越级战斗</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第451话 白家追来了！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=453</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=453"/>
+        <updated>2021-11-03T04:38:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=453" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第451话 白家追来了！</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第450话 我林海从没怕过谁]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=452</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=452"/>
+        <updated>2021-11-03T04:38:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=452" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第450话 我林海从没怕过谁</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第449话 我说，你是个人渣！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451"/>
+        <updated>2021-11-03T04:38:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第449话 我说，你是个人渣！</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第448话 到了玉城主家门口]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=450</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=450"/>
+        <updated>2021-11-03T04:38:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=450" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第448话 到了玉城主家门口</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第447话 双料超极品天赋]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=449</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=449"/>
+        <updated>2021-11-03T04:38:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=449" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第447话 双料超极品天赋</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第446话 外岛的宝藏]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=448</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=448"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=448" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第446话 外岛的宝藏</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第445话 领悟火之道]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=447</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=447"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=447" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第445话 领悟火之道</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第444话 用阵法困住岛主]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=446</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=446"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=446" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第444话 用阵法困住岛主</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第443话 玉城主逃家？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=445</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=445"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=445" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第443话 玉城主逃家？</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第442话 原来他就是岛主]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=444</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=444"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=444" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第442话 原来他就是岛主</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第441话 出发，中心城！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=443</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=443"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=443" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第441话 出发，中心城！</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第440话 我连熊大都打不过了？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=442</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=442"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=442" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第440话 我连熊大都打不过了？</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第439话 领悟了道行]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=441</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=441"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=441" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第439话 领悟了道行</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第438话 把心魔王关进小黑屋]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=440</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=440"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=440" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第438话 把心魔王关进小黑屋</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第437话 陷入自己的“心魔”]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=439</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=439"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=439" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第437话 陷入自己的“心魔”</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第436话 流沙金甲]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=438</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=438"/>
+        <updated>2021-11-03T04:38:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=438" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第436话 流沙金甲</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第435话 神通卷珠帘]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=437</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=437"/>
+        <updated>2021-11-03T04:38:42.634Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=437" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第435话 神通卷珠帘</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第434话 看我沙里淘金！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=436</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=436"/>
+        <updated>2021-11-03T04:38:42.635Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=436" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第434话 看我沙里淘金！</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第433话 居然被反将一军]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=435</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=435"/>
+        <updated>2021-11-03T04:38:42.637Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=435" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第433话 居然被反将一军</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第432话 引敌入阵]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=434</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=434"/>
+        <updated>2021-11-03T04:38:42.638Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=434" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第432话 引敌入阵</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第431话 强劲的主城城主]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=433</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=433"/>
+        <updated>2021-11-03T04:38:42.640Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=433" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第431话 强劲的主城城主</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第430话 精魂疗养]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=432</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=432"/>
+        <updated>2021-11-03T04:38:42.641Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=432" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第430话 精魂疗养</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第429话 炼制妖兽内丹]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=431</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=431"/>
+        <updated>2021-11-03T04:38:42.643Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=431" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第429话 炼制妖兽内丹</span></div></a>]]></content>
     </entry>
 </feed>
