@@ -1,3 +1,5 @@
+[default]
+timeout = 300
 [yaoshenji]
 title = "妖神记"
 url = "https://www.baozimh.com/comic/yaoshenji-taxuedongman"
