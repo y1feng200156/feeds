@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/meiziyukexue-zhazhushidede</id>
     <title>妹子与科学</title>
-    <updated>2021-11-04T01:20:44.931Z</updated>
+    <updated>2021-11-05T05:36:58.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[648 心疼吗]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=660</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=660"/>
+        <updated>2021-11-05T05:36:45.054Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=660" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">648 心疼吗</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[647 教主]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=659</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=637"/>
         <updated>2021-11-03T04:39:50.503Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=637" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">626 来揍你</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[625 终于来了]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=636</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=636"/>
-        <updated>2021-11-03T04:39:50.504Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=636" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">625 终于来了</span></div></a>]]></content>
     </entry>
 </feed>

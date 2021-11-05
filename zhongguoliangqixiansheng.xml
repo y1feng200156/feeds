@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhongguoliangqixiansheng-quanyingsheng</id>
     <title>中国惊奇先生</title>
-    <updated>2021-11-04T01:20:44.933Z</updated>
+    <updated>2021-11-05T05:36:58.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1213 诡异打法]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1212</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1212"/>
+        <updated>2021-11-05T05:35:53.651Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1212" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1213 诡异打法</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1212 小二出奇招]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1211</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1189"/>
         <updated>2021-11-03T04:39:00.285Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1189" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1190 老女人</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1189 叶小姐发脾气]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1188</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1188"/>
-        <updated>2021-11-03T04:39:00.297Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1188" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1189 叶小姐发脾气</span></div></a>]]></content>
     </entry>
 </feed>
