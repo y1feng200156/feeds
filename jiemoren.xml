@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/jiemoren-zhangsanfeng</id>
     <title>戒魔人</title>
-    <updated>2021-11-05T05:36:59.868Z</updated>
+    <updated>2021-11-06T01:35:32.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第788话 绚烂的花火]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790"/>
+        <updated>2021-11-06T01:35:08.873Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第788话 绚烂的花火</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第787话 暴揍马跌利]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=789</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767"/>
         <updated>2021-11-03T04:39:42.423Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第767话 金圣节前夜</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第766话 千手现身]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766"/>
-        <updated>2021-11-03T04:39:42.424Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第766话 千手现身</span></div></a>]]></content>
     </entry>
 </feed>

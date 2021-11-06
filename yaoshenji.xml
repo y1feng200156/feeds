@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2021-11-05T05:36:59.873Z</updated>
+    <updated>2021-11-06T01:35:32.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第352話2 人多欺負人少]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=595</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=595"/>
+        <updated>2021-11-06T01:33:59.630Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=595" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第352話2 人多欺負人少</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第352話1 人多欺負人少]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=594</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=572"/>
         <updated>2021-11-03T04:38:37.469Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=572" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第341話1 丟人了？</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第340話2 先輩出手]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=571</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=571"/>
-        <updated>2021-11-03T04:38:37.469Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=571" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第340話2 先輩出手</span></div></a>]]></content>
     </entry>
 </feed>
