@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhonghuashenyi-jiguangdongman</id>
     <title>中华神医</title>
-    <updated>2021-11-14T05:36:51.025Z</updated>
+    <updated>2021-11-15T05:43:44.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第496话 真相]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=498</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=498"/>
+        <updated>2021-11-15T05:42:37.737Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=498" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第496话 真相</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第495话 妹妹来了？]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=497</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=475"/>
         <updated>2021-11-03T04:38:55.415Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=475" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第473话 三个女人一台戏</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第472话 师兄在保护我？]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=474</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=474"/>
-        <updated>2021-11-03T04:38:55.416Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=474" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第472话 师兄在保护我？</span></div></a>]]></content>
     </entry>
 </feed>
