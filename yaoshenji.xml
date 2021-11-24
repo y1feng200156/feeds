@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2021-11-24T02:22:52.163Z</updated>
+    <updated>2021-11-24T15:43:48.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第355話1 天衍之術]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=600</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=600"/>
+        <updated>2021-11-24T15:42:02.053Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=600" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第355話1 天衍之術</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第354話2 來客]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=599</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=577"/>
         <updated>2021-11-03T04:38:37.459Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=577" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第343話2 沐浴</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第343話1 沐浴]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=576</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=576"/>
-        <updated>2021-11-03T04:38:37.460Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=576" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第343話1 沐浴</span></div></a>]]></content>
     </entry>
 </feed>
