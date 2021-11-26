@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe</id>
     <title>关于我转生变成史莱姆这档事</title>
-    <updated>2021-11-25T14:36:24.881Z</updated>
+    <updated>2021-11-26T02:09:47.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[90 圣人的意图]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=92</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=92"/>
+        <updated>2021-11-26T02:09:22.007Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=92" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">90 圣人的意图</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[89 魔国联邦与神圣法皇国]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=91</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=69"/>
         <updated>2021-11-03T04:39:38.303Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=69" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">67 敬爱的恶魔</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[66.5 弥留之际的四叶草]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=68</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=68"/>
-        <updated>2021-11-03T04:39:38.305Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=68" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">66.5 弥留之际的四叶草</span></div></a>]]></content>
     </entry>
 </feed>
