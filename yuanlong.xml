@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2021-11-29T02:11:46.581Z</updated>
+    <updated>2021-11-30T02:07:10.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[257 今晚，干点正事？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=263</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=263"/>
+        <updated>2021-11-30T02:06:24.253Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=263" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">257 今晚，干点正事？</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[256 冰柱法阵！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=262</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=240"/>
         <updated>2021-11-03T04:39:15.049Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=240" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">234 永春心法</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[233 作死的下场！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=239</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=239"/>
-        <updated>2021-11-03T04:39:15.051Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=239" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">233 作死的下场！</span></div></a>]]></content>
     </entry>
 </feed>

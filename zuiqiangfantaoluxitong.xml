@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zuiqiangfantaoluxitong-chuyingshe</id>
     <title>最强反套路系统</title>
-    <updated>2021-11-29T02:11:46.583Z</updated>
+    <updated>2021-11-30T02:07:10.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[508迎接你]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=512</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=512"/>
+        <updated>2021-11-30T02:06:20.189Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=512" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">508迎接你</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[507红颜出世]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=511</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=489"/>
         <updated>2021-11-03T04:39:10.925Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=489" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">485叫我师爹！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[484至尊宝已死]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=488</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=488"/>
-        <updated>2021-11-03T04:39:10.926Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=488" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">484至尊宝已死</span></div></a>]]></content>
     </entry>
 </feed>
