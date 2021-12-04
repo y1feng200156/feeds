@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2021-12-03T02:12:07.086Z</updated>
+    <updated>2021-12-04T02:12:01.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[258 独特的元魂！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=264</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=264"/>
+        <updated>2021-12-04T02:11:06.476Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=264" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">258 独特的元魂！</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[257 今晚，干点正事？]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=263</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=241"/>
         <updated>2021-11-03T04:39:15.048Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=241" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">235 因祸得福</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[234 永春心法]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=240</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=240"/>
-        <updated>2021-11-03T04:39:15.049Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=240" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">234 永春心法</span></div></a>]]></content>
     </entry>
 </feed>

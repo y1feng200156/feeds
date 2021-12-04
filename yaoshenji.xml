@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2021-12-03T02:12:07.129Z</updated>
+    <updated>2021-12-04T02:12:01.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第356話2 黃雀在後]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=603</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=603"/>
+        <updated>2021-12-04T02:10:25.320Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=603" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第356話2 黃雀在後</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第356話1 黃雀在後]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=602</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=580"/>
         <updated>2021-11-03T04:38:37.455Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=580" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第345話1 寫了好多字</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第344話2 天雲神尊]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=579</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=579"/>
-        <updated>2021-11-03T04:38:37.456Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=579" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第344話2 天雲神尊</span></div></a>]]></content>
     </entry>
 </feed>
