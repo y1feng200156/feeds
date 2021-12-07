@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-onFail = stale
+onFail = "stale"
 [yaoshenji]
 title = "妖神记"
 url = "https://www.baozimh.com/comic/yaoshenji-taxuedongman"
