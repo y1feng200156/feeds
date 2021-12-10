@@ -1,5 +1,5 @@
 [default]
-timeout = 300
+timeout = 600
 onFail = "stale"
 [yaoshenji]
 title = "妖神记"
