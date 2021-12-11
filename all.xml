@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://y1feng200156.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T13:40:30.430Z</updated>
+    <updated>2021-12-11T02:13:10.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[第357話2 潛入 (妖神记)]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=605</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=605"/>
+        <updated>2021-12-11T02:11:16.251Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=605" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第357話2 潛入</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第357話1 潛入 (妖神记)]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=604</id>
@@ -164,13 +171,6 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=582"/>
         <updated>2021-11-03T04:38:37.452Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=582" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第346話1 破解萬里河山圖</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第345話2 寫了好多字 (妖神记)]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=581</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=581"/>
-        <updated>2021-11-03T04:38:37.454Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=581" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第345話2 寫了好多字</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第462话 还没我解不开的阵法 (我的微信连三界)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=441" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第439话 领悟了道行</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第395话 灵活运用2 (网游之近战法师)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414"/>
+        <updated>2021-12-11T02:11:26.221Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第395话 灵活运用2</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第394话 灵活运用1 (网游之近战法师)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=413</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=413"/>
@@ -500,13 +507,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=391"/>
         <updated>2021-11-03T04:38:46.987Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=391" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第372话 电系法师3</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第371话 电系法师2 (网游之近战法师)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390"/>
-        <updated>2021-11-03T04:38:46.988Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第371话 电系法师2</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[587，合流 (王牌御史)]]></title>
@@ -1349,6 +1349,13 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=495" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">491重返天洲</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[261 国公大人戏精上身 (元龙)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=267</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=267"/>
+        <updated>2021-12-11T02:11:59.564Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=267" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">261 国公大人戏精上身</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[260 就你鬼点子多！ (元龙)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=266</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=266"/>
@@ -1508,13 +1515,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=244"/>
         <updated>2021-11-03T04:39:15.043Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=244" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">238 娇气喘喘，升级满满！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[237 我们，要晋级了！ (元龙)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=243</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=243"/>
-        <updated>2021-11-03T04:39:15.044Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=243" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">237 我们，要晋级了！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第76.5话 (无职转生)]]></title>
@@ -2357,6 +2357,13 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=69" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">67 敬爱的恶魔</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第793话 人类的胜利 (戒魔人)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=775</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=775"/>
+        <updated>2021-12-11T02:12:28.896Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=775" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第793话 人类的胜利</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第792话 好好活下去 (戒魔人)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=774</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=774"/>
@@ -2516,13 +2523,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=752"/>
         <updated>2021-11-23T02:10:09.670Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=752" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第770话 黑泷之死</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第769话 血腥之夜 (戒魔人)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=751</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=751"/>
-        <updated>2021-11-23T02:10:09.670Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=751" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第769话 血腥之夜</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第63话 (博人传BORUTO)]]></title>
@@ -2861,6 +2861,13 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=647" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">636 去死</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[507、献计 (食色大陆)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=511</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=511"/>
+        <updated>2021-12-11T02:12:59.822Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=511" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">507、献计</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[506、回家 (食色大陆)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=510</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=510"/>
@@ -3020,13 +3027,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=488"/>
         <updated>2021-11-03T04:39:54.582Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=488" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">484、鱼之鲜</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[483、光芒 (食色大陆)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=487</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=487"/>
-        <updated>2021-11-03T04:39:54.584Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=487" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">483、光芒</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第683回 (重生之都市修仙)]]></title>
@@ -3197,6 +3197,20 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=673" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第660回</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第509话 (星武神决)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513"/>
+        <updated>2021-12-11T02:13:09.530Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第509话</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第508话 (星武神决)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512"/>
+        <updated>2021-12-11T02:13:09.530Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第508话</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第507话 (星武神决)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=511</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=511"/>
@@ -3349,19 +3363,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=490"/>
         <updated>2021-11-03T04:40:04.328Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=490" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第486话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第485话 (星武神决)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489"/>
-        <updated>2021-11-03T04:40:04.330Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第485话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第484话 (星武神决)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488"/>
-        <updated>2021-11-03T04:40:04.333Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第484话</span></div></a>]]></content>
     </entry>
 </feed>

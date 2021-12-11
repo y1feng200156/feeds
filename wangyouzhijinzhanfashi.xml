@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangyouzhijinzhanfashi-samanhua</id>
     <title>网游之近战法师</title>
-    <updated>2021-12-10T13:40:30.381Z</updated>
+    <updated>2021-12-11T02:13:10.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第395话 灵活运用2]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414"/>
+        <updated>2021-12-11T02:11:26.221Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=414" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第395话 灵活运用2</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第394话 灵活运用1]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=413</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=391"/>
         <updated>2021-11-03T04:38:46.987Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=391" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第372话 电系法师3</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第371话 电系法师2]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390"/>
-        <updated>2021-11-03T04:38:46.988Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=390" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第371话 电系法师2</span></div></a>]]></content>
     </entry>
 </feed>

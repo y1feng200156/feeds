@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/xingwushenjue-taxuedongman</id>
     <title>星武神决</title>
-    <updated>2021-12-10T13:40:30.416Z</updated>
+    <updated>2021-12-11T02:13:10.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第509话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513"/>
+        <updated>2021-12-11T02:13:09.530Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=513" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第509话</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第508话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512"/>
+        <updated>2021-12-11T02:13:09.530Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=512" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第508话</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第507话]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=511</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=490"/>
         <updated>2021-11-03T04:40:04.328Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=490" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第486话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第485话]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489"/>
-        <updated>2021-11-03T04:40:04.330Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=489" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第485话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第484话]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488"/>
-        <updated>2021-11-03T04:40:04.333Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=488" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第484话</span></div></a>]]></content>
     </entry>
 </feed>
