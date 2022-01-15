@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-01-14T13:42:51.980Z</updated>
+    <updated>2022-01-15T02:22:47.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[273 封印，解！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=280</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=280"/>
+        <updated>2022-01-15T02:21:52.691Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=280" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">273 封印，解！</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[272 八大家族的秘密任务！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=279</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=257"/>
         <updated>2021-11-14T05:35:58.270Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=257" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">251 痴迷武学！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[250 剑破！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=256</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=256"/>
-        <updated>2021-11-13T05:13:28.523Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=256" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">250 剑破！</span></div></a>]]></content>
     </entry>
 </feed>
