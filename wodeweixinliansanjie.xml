@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2022-01-15T02:22:47.072Z</updated>
+    <updated>2022-01-16T13:41:14.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第473话 你们一个都走不掉]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=475</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=475"/>
+        <updated>2022-01-16T13:39:45.493Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=475" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第473话 你们一个都走不掉</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第472话 好戏要上演了]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=474</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=452"/>
         <updated>2021-11-03T04:38:42.632Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=452" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第450话 我林海从没怕过谁</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第449话 我说，你是个人渣！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451"/>
-        <updated>2021-11-03T04:38:42.632Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=451" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第449话 我说，你是个人渣！</span></div></a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-01-15T02:22:47.033Z</updated>
+    <updated>2022-01-16T13:41:14.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第859话 百般试探]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=882</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=882"/>
+        <updated>2022-01-16T13:40:29.592Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=882" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第859话 百般试探</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第858话 来者不拒]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=881</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=859"/>
         <updated>2021-11-24T15:42:51.615Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=859" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第836话 枯苗望雨</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第835话 有口难辩]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=858</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=858"/>
-        <updated>2021-11-17T13:39:00.381Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=858" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第835话 有口难辩</span></div></a>]]></content>
     </entry>
 </feed>

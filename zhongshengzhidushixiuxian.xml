@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhongshengzhidushixiuxian-daxingdaodongman</id>
     <title>重生之都市修仙</title>
-    <updated>2022-01-15T02:22:47.079Z</updated>
+    <updated>2022-01-16T13:41:14.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第702回]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=715</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=715"/>
+        <updated>2022-01-16T13:41:09.143Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=715" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第702回</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第701回]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=714</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=692"/>
         <updated>2021-12-01T02:16:42.905Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=692" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第679回</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第678回]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=691</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=691"/>
-        <updated>2021-11-28T02:14:11.204Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=691" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第678回</span></div></a>]]></content>
     </entry>
 </feed>

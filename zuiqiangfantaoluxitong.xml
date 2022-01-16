@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zuiqiangfantaoluxitong-chuyingshe</id>
     <title>最强反套路系统</title>
-    <updated>2022-01-15T02:22:47.060Z</updated>
+    <updated>2022-01-16T13:41:14.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[535直播]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=539</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=539"/>
+        <updated>2022-01-16T13:40:14.019Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=539" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">535直播</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[534一吻]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=538</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=516"/>
         <updated>2021-12-06T02:14:17.992Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=516" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">512时代变了</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[511阴阳双剑]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=515</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=515"/>
-        <updated>2021-12-06T02:14:18.005Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=515" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">511阴阳双剑</span></div></a>]]></content>
     </entry>
 </feed>
