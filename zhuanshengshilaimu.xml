@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe</id>
     <title>关于我转生变成史莱姆这档事</title>
-    <updated>2022-01-25T13:36:21.569Z</updated>
+    <updated>2022-01-26T02:16:46.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[92 第二次对峙]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=94</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=94"/>
+        <updated>2022-01-26T02:16:14.864Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=94" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">92 第二次对峙</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[91 思念同乡]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=93</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=71"/>
         <updated>2021-11-03T04:39:38.302Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=71" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">69 特恩佩斯特复活祭</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[68 魔王诞生]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=70</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=70"/>
-        <updated>2021-11-03T04:39:38.302Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=70" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">68 魔王诞生</span></div></a>]]></content>
     </entry>
 </feed>
