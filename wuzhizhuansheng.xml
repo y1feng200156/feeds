@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wuzhizhuansheng-huzikawayuka</id>
     <title>无职转生</title>
-    <updated>2022-02-17T13:35:56.828Z</updated>
+    <updated>2022-02-19T02:11:38.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[第76.5话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=92</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=92"/>
+        <updated>2022-02-19T02:10:40.863Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=92" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第76.5话</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第78话]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=91</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=91"/>
         <updated>2021-12-19T02:22:01.877Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第76.5话</span></div></a>]]></content>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第78话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第77话]]></title>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=69"/>
         <updated>2021-11-03T04:39:19.828Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=69" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第60话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第59话]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=68</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=68"/>
-        <updated>2021-11-03T04:39:19.829Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=68" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第59话</span></div></a>]]></content>
     </entry>
 </feed>
