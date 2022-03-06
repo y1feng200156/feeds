@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2022-03-04T02:33:34.254Z</updated>
+    <updated>2022-03-06T02:22:06.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第368話2 東院]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=628</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=628"/>
+        <updated>2022-03-06T02:20:44.601Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=628" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第368話2 東院</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第368話1 東院]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=627</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=605"/>
         <updated>2021-12-11T02:11:16.251Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=605" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第357話2 潛入</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第357話1 潛入]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=604</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=604"/>
-        <updated>2021-12-08T13:40:12.013Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=604" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第357話1 潛入</span></div></a>]]></content>
     </entry>
 </feed>

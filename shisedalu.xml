@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/shisedalu-daoruisi</id>
     <title>食色大陆</title>
-    <updated>2022-03-04T02:33:34.286Z</updated>
+    <updated>2022-03-06T02:22:06.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[524、深海鱇]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=528</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=528"/>
+        <updated>2022-03-06T02:21:56.846Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=528" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">524、深海鱇</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[523、登基]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=527</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=505"/>
         <updated>2021-11-13T17:42:39.272Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=505" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">501、白羽鸭</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500、声音]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=504</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=504"/>
-        <updated>2021-11-11T05:37:16.818Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=504" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">500、声音</span></div></a>]]></content>
     </entry>
 </feed>

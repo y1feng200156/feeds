@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zuiqiangfantaoluxitong-chuyingshe</id>
     <title>最强反套路系统</title>
-    <updated>2022-03-04T02:33:34.263Z</updated>
+    <updated>2022-03-06T02:22:06.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[566我徐缺舍己为人！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=570</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=570"/>
+        <updated>2022-03-06T02:21:14.496Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=570" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">566我徐缺舍己为人！</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[565修罗众]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=569</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=547"/>
         <updated>2022-01-30T02:08:11.268Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=547" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">543开干！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[542记忆真相]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=546</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=546"/>
-        <updated>2022-01-28T02:09:46.535Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=546" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">542记忆真相</span></div></a>]]></content>
     </entry>
 </feed>

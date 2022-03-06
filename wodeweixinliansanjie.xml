@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2022-03-04T02:33:34.306Z</updated>
+    <updated>2022-03-06T02:22:06.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第493话 又收服一个地仙]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=495</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=495"/>
+        <updated>2022-03-06T02:20:48.740Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=495" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第493话 又收服一个地仙</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第492话 收服狼人大军]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=494</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=472"/>
         <updated>2022-01-07T02:25:52.400Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=472" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第470话 就你还想踢馆？</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第469话 我不配开宗立派？]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=471</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=471"/>
-        <updated>2022-01-02T02:22:24.814Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=471" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第469话 我不配开宗立派？</span></div></a>]]></content>
     </entry>
 </feed>
