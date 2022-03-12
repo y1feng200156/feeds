@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangyouzhijinzhanfashi-samanhua</id>
     <title>网游之近战法师</title>
-    <updated>2022-03-11T02:30:20.863Z</updated>
+    <updated>2022-03-12T02:13:25.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第411话 恶人有恶报3]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=430</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=430"/>
+        <updated>2022-03-12T02:12:12.677Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=430" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第411话 恶人有恶报3</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第410话 恶人有恶报2]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=429</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=407"/>
         <updated>2021-11-03T04:38:46.937Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=407" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第388话 囚幽之盾1</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第387话 瞬移3]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=406</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=406"/>
-        <updated>2021-11-03T04:38:46.937Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=406" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第387话 瞬移3</span></div></a>]]></content>
     </entry>
 </feed>
