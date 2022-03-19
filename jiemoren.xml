@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/jiemoren-zhangsanfeng</id>
     <title>戒魔人</title>
-    <updated>2022-03-18T13:39:01.309Z</updated>
+    <updated>2022-03-19T02:27:19.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第六话 红色尸丹]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790"/>
+        <updated>2022-03-19T02:26:58.349Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第六话 红色尸丹</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第五话 抓捕王德成]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=789</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767"/>
         <updated>2021-11-23T02:10:09.669Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第785话 谁这么大胆</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第784话 无人能敌]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766"/>
-        <updated>2021-11-23T02:10:09.669Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=766" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第784话 无人能敌</span></div></a>]]></content>
     </entry>
 </feed>
