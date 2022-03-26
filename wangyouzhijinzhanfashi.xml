@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangyouzhijinzhanfashi-samanhua</id>
     <title>网游之近战法师</title>
-    <updated>2022-03-25T02:35:13.942Z</updated>
+    <updated>2022-03-26T02:35:39.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第413话 下不了手的目标2]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=432</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=432"/>
+        <updated>2022-03-26T02:34:18.153Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=432" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第413话 下不了手的目标2</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第412话 下不了手的目标1]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=431</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=431"/>
+        <updated>2022-03-26T02:34:18.153Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=431" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第412话 下不了手的目标1</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第411话 恶人有恶报3]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=430</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=409"/>
         <updated>2021-11-06T01:34:09.209Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=409" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第390话 囚幽之盾3</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第389话 囚幽之盾2]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=408</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=408"/>
-        <updated>2021-11-02T04:11:15.756Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=408" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第389话 囚幽之盾2</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第388话 囚幽之盾1]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=407</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=407"/>
-        <updated>2021-11-03T04:38:46.937Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=407" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第388话 囚幽之盾1</span></div></a>]]></content>
     </entry>
 </feed>

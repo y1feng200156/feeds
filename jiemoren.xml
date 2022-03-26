@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/jiemoren-zhangsanfeng</id>
     <title>戒魔人</title>
-    <updated>2022-03-25T02:35:13.934Z</updated>
+    <updated>2022-03-26T02:35:39.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第七话 白家血案]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=791</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=791"/>
+        <updated>2022-03-26T02:35:16.660Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=791" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第七话 白家血案</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第六话 红色尸丹]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=790</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=768"/>
         <updated>2021-11-03T04:39:42.422Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=768" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第786话 古日克族</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第785话 谁这么大胆]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767"/>
-        <updated>2021-11-23T02:10:09.669Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=767" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第785话 谁这么大胆</span></div></a>]]></content>
     </entry>
 </feed>
