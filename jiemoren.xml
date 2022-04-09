@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/jiemoren-zhangsanfeng</id>
     <title>戒魔人</title>
-    <updated>2022-04-08T13:46:25.211Z</updated>
+    <updated>2022-04-09T02:38:31.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第十话 曲终]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=794</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=794"/>
+        <updated>2022-04-09T02:38:10.089Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=794" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第十话 曲终</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第九话 一个意外]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=793</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=793"/>
+        <updated>2022-04-09T02:38:10.090Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=793" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第九话 一个意外</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第八话 金尸螳螂]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=792</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=771"/>
         <updated>2021-11-03T04:39:42.417Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=771" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第789话 玉佛</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第788话 绚烂的花火]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=770</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=770"/>
-        <updated>2021-11-03T04:39:42.418Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=770" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第788话 绚烂的花火</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第787话 暴揍马跌利]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=769</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=769"/>
-        <updated>2021-11-03T04:39:42.419Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=jiemoren-zhangsanfeng&amp;section_slot=0&amp;chapter_slot=769" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第787话 暴揍马跌利</span></div></a>]]></content>
     </entry>
 </feed>
