@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-04-09T13:39:23.782Z</updated>
+    <updated>2022-04-10T13:39:35.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[299 洗牌]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=305</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=305"/>
+        <updated>2022-04-10T13:38:48.269Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=305" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">299 洗牌</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[298 双拳难敌十六手？]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=304</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=282"/>
         <updated>2022-01-22T02:06:47.490Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=282" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">276 绝世高手就在其中？</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[275 足智多谋]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=281</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=281"/>
-        <updated>2022-01-16T13:40:18.916Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua&amp;section_slot=0&amp;chapter_slot=281" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">275 足智多谋</span></div></a>]]></content>
     </entry>
 </feed>

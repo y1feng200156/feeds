@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2022-04-09T13:39:23.689Z</updated>
+    <updated>2022-04-10T13:39:36.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第503话 几个蟊贼罢了]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=505</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=505"/>
+        <updated>2022-04-10T13:38:16.454Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=505" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第503话 几个蟊贼罢了</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第502话 这是病，得治啊]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=482"/>
         <updated>2022-02-03T02:05:49.447Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=482" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第480话 替昆仑清理门户</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第479话 两招灭三人]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=481</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=481"/>
-        <updated>2022-02-02T02:09:17.211Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=481" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第479话 两招灭三人</span></div></a>]]></content>
     </entry>
 </feed>
