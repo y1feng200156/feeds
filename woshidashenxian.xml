@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/woshidashenxian-shengshiqiaman</id>
     <title>我是大神仙</title>
-    <updated>2022-04-10T13:39:35.994Z</updated>
+    <updated>2022-04-11T02:58:36.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第四八七话·惨 剧]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=502</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=502"/>
+        <updated>2022-04-11T02:57:43.002Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=502" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第四八七话·惨 剧</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第四八六话·青色琉璃]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=501</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=479"/>
         <updated>2022-01-21T02:10:19.752Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=479" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第四六四话·两个选择</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第四六三话·忍]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=478</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=478"/>
-        <updated>2022-01-18T02:23:38.787Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=478" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第四六三话·忍</span></div></a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zuiqiangfantaoluxitong-chuyingshe</id>
     <title>最强反套路系统</title>
-    <updated>2022-04-10T13:39:35.996Z</updated>
+    <updated>2022-04-11T02:58:36.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[587重回五行山]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=591</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=591"/>
+        <updated>2022-04-11T02:57:48.068Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=591" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">587重回五行山</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[586徐缺的计划]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=590</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=568"/>
         <updated>2022-03-02T02:27:45.374Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=568" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">564噪音攻击</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[563独自前行]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=567</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=567"/>
-        <updated>2022-03-02T02:27:45.376Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=567" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">563独自前行</span></div></a>]]></content>
     </entry>
 </feed>
