@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/meiziyukexue-zhazhushidede</id>
     <title>妹子与科学</title>
-    <updated>2022-04-12T13:45:55.572Z</updated>
+    <updated>2022-04-16T13:40:44.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[693 答案]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=706</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=706"/>
+        <updated>2022-04-16T13:40:30.502Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=706" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">693 答案</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[692 捕捉]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=705</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=683"/>
         <updated>2022-01-25T02:15:40.612Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=683" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">671  原来曾经那么喜欢</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[670 小帅哥冷静点！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=682</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=682"/>
-        <updated>2022-01-21T02:11:14.416Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=682" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">670 小帅哥冷静点！</span></div></a>]]></content>
     </entry>
 </feed>

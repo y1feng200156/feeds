@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangpaiyushi-tongyao</id>
     <title>王牌御史</title>
-    <updated>2022-04-12T13:45:55.600Z</updated>
+    <updated>2022-04-16T13:40:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[607,诅咒和绝咒]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=622</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=622"/>
+        <updated>2022-04-16T13:39:37.625Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=622" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">607,诅咒和绝咒</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[606，小丑竟然是我]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=621</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=599"/>
         <updated>2021-12-04T02:10:39.760Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=599" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">584，我的王</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[583，特权阶级]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=598</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=598"/>
-        <updated>2021-11-13T05:12:59.382Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=598" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">583，特权阶级</span></div></a>]]></content>
     </entry>
 </feed>
