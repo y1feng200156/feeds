@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/meiziyukexue-zhazhushidede</id>
     <title>妹子与科学</title>
-    <updated>2022-05-09T13:54:12.142Z</updated>
+    <updated>2022-05-10T02:38:06.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[700 问天真身]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=713</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=713"/>
+        <updated>2022-05-10T02:37:53.740Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=713" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">700 问天真身</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[699 我和你一起见她]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=712</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=690"/>
         <updated>2022-02-19T02:11:17.945Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=690" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">677   给我打！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[676 第二回合]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=689</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=689"/>
-        <updated>2022-02-15T02:19:23.062Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=689" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">676 第二回合</span></div></a>]]></content>
     </entry>
 </feed>
