@@ -21,7 +21,8 @@ jobs:
     - uses: microsoft/playwright-github-action@v1
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
-    - run: npx playwright install && npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
+    - run: npx playwright install
+    - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.1.5
       with:
