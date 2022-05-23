@@ -1,6 +1,5 @@
 [default]
 timeout = 3000
-onFail='stale'
 
 [yaoshenji]
 title = "妖神记"
