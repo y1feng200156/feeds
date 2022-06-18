@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wulimofashimaxiu-jiabenyi</id>
     <title>物理魔法使马修</title>
-    <updated>2022-06-14T03:31:14.345Z</updated>
+    <updated>2022-06-18T03:10:14.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第110话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=114</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=114"/>
+        <updated>2022-06-18T03:09:46.723Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=114" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第110话</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第109话]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=113</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=91"/>
         <updated>2022-04-16T13:40:15.032Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第88话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第87话]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=90</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=90"/>
-        <updated>2022-04-16T13:40:15.032Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=90" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第87话</span></div></a>]]></content>
     </entry>
 </feed>
