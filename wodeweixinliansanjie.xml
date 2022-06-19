@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2022-06-18T03:10:14.672Z</updated>
+    <updated>2022-06-19T03:25:35.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第525话 以牙还牙]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=527</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=527"/>
+        <updated>2022-06-19T03:24:11.072Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=527" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第525话 以牙还牙</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第524话 只能下杀手了！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=526</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504"/>
         <updated>2022-04-06T02:44:14.783Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第502话 这是病，得治啊</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第501话 风雷掌法]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=503</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=503"/>
-        <updated>2022-04-03T02:42:00.658Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=503" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第501话 风雷掌法</span></div></a>]]></content>
     </entry>
 </feed>

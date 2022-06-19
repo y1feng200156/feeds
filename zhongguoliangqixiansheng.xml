@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhongguoliangqixiansheng-quanyingsheng</id>
     <title>中国惊奇先生</title>
-    <updated>2022-06-18T03:10:14.681Z</updated>
+    <updated>2022-06-19T03:25:35.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1323 坑朋友]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1322</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1322"/>
+        <updated>2022-06-19T03:24:30.711Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1322" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1323 坑朋友</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1322 高光时刻]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1321</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1299"/>
         <updated>2022-05-06T13:48:36.626Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1299" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1300 穷追猛打</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1299 老大爷]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1298</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1298"/>
-        <updated>2022-05-04T03:13:08.760Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1298" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1299 老大爷</span></div></a>]]></content>
     </entry>
 </feed>
