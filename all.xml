@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://y1feng200156.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-21T03:19:03.484Z</updated>
+    <updated>2022-06-24T03:25:18.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[第384話2 虛靈之陣 (妖神记)]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=662</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=662"/>
+        <updated>2022-06-24T03:23:59.528Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=662" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第384話2 虛靈之陣</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第384話1 虛靈之陣 (妖神记)]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=661</id>
@@ -166,11 +173,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=639" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第374話1 幽月龍獸</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第373話2 不打了 (妖神记)]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=638</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=638"/>
-        <updated>2022-04-02T02:41:50.503Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=638" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第373話2 不打了</span></div></a>]]></content>
+        <title type="html"><![CDATA[第526话 居然和我玩瞳术！ (我的微信连三界)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=528</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=528"/>
+        <updated>2022-06-24T03:24:03.678Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=528" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第526话 居然和我玩瞳术！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第525话 以牙还牙 (我的微信连三界)]]></title>
@@ -332,13 +339,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=505"/>
         <updated>2022-04-10T13:38:16.454Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=505" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第503话 几个蟊贼罢了</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第502话 这是病，得治啊 (我的微信连三界)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504"/>
-        <updated>2022-04-06T02:44:14.783Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman&amp;section_slot=0&amp;chapter_slot=504" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第502话 这是病，得治啊</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第428话 拳师挑战 (网游之近战法师)]]></title>
@@ -509,6 +509,13 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua&amp;section_slot=0&amp;chapter_slot=424" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第405话 暗流涌动3</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[618，我常因为不够变态而和你 (王牌御史)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=633</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=633"/>
+        <updated>2022-06-24T03:24:13.154Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=633" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">618，我常因为不够变态而和你</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[617,你是不是已经忘了通天合 (王牌御史)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=632</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=632"/>
@@ -668,13 +675,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=610"/>
         <updated>2022-01-28T02:09:27.277Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=610" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">595，我其实是想预习</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[594，技术与力量 (王牌御史)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=609</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=609"/>
-        <updated>2022-01-21T02:10:04.592Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=609" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">594，技术与力量</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第496话 真相 (中华神医)]]></title>
@@ -845,6 +845,20 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhonghuashenyi-jiguangdongman&amp;section_slot=0&amp;chapter_slot=475" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第473话 三个女人一台戏</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1326 张冠李戴 (中国惊奇先生)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1325</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1325"/>
+        <updated>2022-06-24T03:24:21.785Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1325" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1326 张冠李戴</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1325 汇报工作 (中国惊奇先生)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1324</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1324"/>
+        <updated>2022-06-24T03:24:21.789Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1324" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1325 汇报工作</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1324 细胡道人 (中国惊奇先生)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1323</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1323"/>
@@ -999,18 +1013,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1302" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1303 搞破坏</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1302 惊喜不断 (中国惊奇先生)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1301</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1301"/>
-        <updated>2022-05-12T03:02:59.420Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1301" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1302 惊喜不断</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1301 正义之师 (中国惊奇先生)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1300</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1300"/>
-        <updated>2022-05-09T03:08:50.463Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1300" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">1301 正义之师</span></div></a>]]></content>
+        <title type="html"><![CDATA[第五零八话·得 劲 (我是大神仙)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=524</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=524"/>
+        <updated>2022-06-24T03:24:25.793Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=524" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第五零八话·得 劲</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第五零七话·打死你 (我是大神仙)]]></title>
@@ -1174,179 +1181,172 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=501" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第四八六话·青色琉璃</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第四八五话·捷径 (我是大神仙)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=500</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=500"/>
-        <updated>2022-04-04T02:53:04.044Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=500" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第四八五话·捷径</span></div></a>]]></content>
+        <title type="html"><![CDATA[620爆杀！ (最强反套路系统)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=625</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=625"/>
+        <updated>2022-06-24T03:24:29.948Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=625" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">620爆杀！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[619乱战 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623"/>
-        <updated>2022-06-20T03:04:15.715Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">619乱战</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=624</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=624"/>
+        <updated>2022-06-24T03:24:29.971Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=624" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">619乱战</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[618消除！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622"/>
-        <updated>2022-06-18T03:09:25.934Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">618消除！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623"/>
+        <updated>2022-06-20T03:04:15.715Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=623" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">618消除！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[617青莲世界 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621"/>
-        <updated>2022-06-18T03:09:25.938Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">617青莲世界</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622"/>
+        <updated>2022-06-18T03:09:25.934Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=622" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">617青莲世界</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[616神魂种 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620"/>
-        <updated>2022-06-13T13:54:59.379Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">616神魂种</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621"/>
+        <updated>2022-06-18T03:09:25.938Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=621" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">616神魂种</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[615行动！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619"/>
-        <updated>2022-06-13T13:54:59.380Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">615行动！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620"/>
+        <updated>2022-06-13T13:54:59.379Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=620" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">615行动！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[614仙帝 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618"/>
-        <updated>2022-06-13T13:54:59.382Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">614仙帝</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619"/>
+        <updated>2022-06-13T13:54:59.380Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=619" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">614仙帝</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[613青莲绽放 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617"/>
-        <updated>2022-06-08T03:10:29.016Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">613青莲绽放</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618"/>
+        <updated>2022-06-13T13:54:59.382Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=618" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">613青莲绽放</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[612轰破帝石！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616"/>
-        <updated>2022-06-03T03:01:42.056Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">612轰破帝石！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617"/>
+        <updated>2022-06-08T03:10:29.016Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=617" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">612轰破帝石！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[611帮主回归！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615"/>
-        <updated>2022-06-01T14:03:53.065Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">611帮主回归！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616"/>
+        <updated>2022-06-03T03:01:42.056Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=616" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">611帮主回归！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[610脱险 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614"/>
-        <updated>2022-05-31T03:14:32.985Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">610脱险</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615"/>
+        <updated>2022-06-01T14:03:53.065Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=615" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">610脱险</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[609婉蓉的心意 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613"/>
-        <updated>2022-05-27T03:15:31.453Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">609婉蓉的心意</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614"/>
+        <updated>2022-05-31T03:14:32.985Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=614" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">609婉蓉的心意</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[608苦中作乐 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612"/>
-        <updated>2022-05-26T03:13:35.528Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">608苦中作乐</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613"/>
+        <updated>2022-05-27T03:15:31.453Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=613" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">608苦中作乐</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[607觉醒！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611"/>
-        <updated>2022-05-23T03:08:20.406Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">607觉醒！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612"/>
+        <updated>2022-05-26T03:13:35.528Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=612" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">607觉醒！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[606帝石的意志 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610"/>
-        <updated>2022-05-20T04:20:56.153Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">606帝石的意志</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611"/>
+        <updated>2022-05-23T03:08:20.406Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=611" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">606帝石的意志</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[605轮回？ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609"/>
-        <updated>2022-05-20T04:20:56.162Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">605轮回？</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610"/>
+        <updated>2022-05-20T04:20:56.153Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=610" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">605轮回？</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[604陷阱！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608"/>
-        <updated>2022-05-20T04:20:56.163Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">604陷阱！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609"/>
+        <updated>2022-05-20T04:20:56.162Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=609" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">604陷阱！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[603洞穴深处 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607"/>
-        <updated>2022-05-20T04:20:56.164Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">603洞穴深处</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608"/>
+        <updated>2022-05-20T04:20:56.163Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=608" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">603洞穴深处</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[602攻入洞穴！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606"/>
-        <updated>2022-05-12T03:03:07.732Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">602攻入洞穴！</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607"/>
+        <updated>2022-05-20T04:20:56.164Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=607" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">602攻入洞穴！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[601时间流速 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605"/>
-        <updated>2022-05-09T03:08:58.659Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">601时间流速</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606"/>
+        <updated>2022-05-12T03:03:07.732Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=606" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">601时间流速</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[600神秘洞穴 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604"/>
-        <updated>2022-05-06T13:48:44.274Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">600神秘洞穴</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605"/>
+        <updated>2022-05-09T03:08:58.659Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=605" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">600神秘洞穴</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[599再遇轩辕婉蓉 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603"/>
-        <updated>2022-05-04T03:13:17.627Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">599再遇轩辕婉蓉</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604"/>
+        <updated>2022-05-06T13:48:44.274Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=604" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">599再遇轩辕婉蓉</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[598帝石的线索 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602"/>
-        <updated>2022-05-03T03:12:12.016Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">598帝石的线索</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603"/>
+        <updated>2022-05-04T03:13:17.627Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=603" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">598帝石的线索</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[597更胜一筹！ (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=601</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=601"/>
-        <updated>2022-04-30T03:03:56.979Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=601" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">597更胜一筹！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[596骰宝对决 (最强反套路系统)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=600</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=600"/>
-        <updated>2022-04-27T03:22:40.018Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=600" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">596骰宝对决</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602"/>
+        <updated>2022-05-03T03:12:12.016Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe&amp;section_slot=0&amp;chapter_slot=602" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">597更胜一筹！</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[319 甘乘风 (元龙)]]></title>
@@ -1685,6 +1685,20 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=72" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第62话 素颜之瞳</span></div></a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第928话 同门汇合 (百炼成神)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=954</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=954"/>
+        <updated>2022-06-24T03:24:42.304Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=954" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第928话 同门汇合</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第927话 稀客降临 (百炼成神)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=953</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=953"/>
+        <updated>2022-06-24T03:24:42.304Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=953" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第927话 稀客降临</span></div></a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第926话 稀世天才 (百炼成神)]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=952</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=952"/>
@@ -1839,18 +1853,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=931" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第905话 昭然若揭</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第904话 疑窦丛生 (百炼成神)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=930</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=930"/>
-        <updated>2022-04-30T03:04:08.689Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=930" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第904话 疑窦丛生</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第903话 岁月密室 (百炼成神)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=929</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=929"/>
-        <updated>2022-04-27T03:22:51.962Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=929" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第903话 岁月密室</span></div></a>]]></content>
+        <title type="html"><![CDATA[第七百八十三章 (从前有座灵剑山)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=800</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=800"/>
+        <updated>2022-06-24T03:24:46.373Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=800" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第七百八十三章</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第七百八十二章 (从前有座灵剑山)]]></title>
@@ -2014,11 +2021,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=777" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第七百六十一章</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第七百六十章 (从前有座灵剑山)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=776</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=776"/>
-        <updated>2022-04-03T02:42:43.643Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=776" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第七百六十章</span></div></a>]]></content>
+        <title type="html"><![CDATA[第111话 (物理魔法使马修)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=115</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=115"/>
+        <updated>2022-06-24T03:24:50.117Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=115" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第111话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第110话 (物理魔法使马修)]]></title>
@@ -2180,13 +2187,6 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=92"/>
         <updated>2022-04-16T13:40:15.030Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=92" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第89话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第88话 (物理魔法使马修)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=91</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=91"/>
-        <updated>2022-04-16T13:40:15.032Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第88话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[96 神与魔王 (关于我转生变成史莱姆这档事)]]></title>
@@ -2526,171 +2526,178 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[第63话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101"/>
-        <updated>2022-05-26T03:14:06.042Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第63话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=102</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=102"/>
+        <updated>2022-06-24T03:25:01.899Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=102" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第63话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第62话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100"/>
-        <updated>2022-05-26T03:14:06.043Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第62话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101"/>
+        <updated>2022-05-26T03:14:06.042Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=101" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第62话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第61话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99"/>
-        <updated>2022-04-22T13:52:36.263Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第61话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100"/>
+        <updated>2022-05-26T03:14:06.043Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=100" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第61话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第60话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98"/>
-        <updated>2022-02-26T02:09:13.835Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第60话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99"/>
+        <updated>2022-04-22T13:52:36.263Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=99" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第60话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第59话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97"/>
-        <updated>2022-01-25T13:35:59.120Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第59话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98"/>
+        <updated>2022-02-26T02:09:13.835Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=98" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第59话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第58話 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96"/>
-        <updated>2021-12-24T02:15:53.215Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第58話</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97"/>
+        <updated>2022-01-25T13:35:59.120Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=97" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第58話</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第57话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95"/>
-        <updated>2021-12-24T02:15:53.216Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第57话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96"/>
+        <updated>2021-12-24T02:15:53.215Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=96" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第57话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第56话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94"/>
-        <updated>2021-11-13T05:14:00.706Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第56话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95"/>
+        <updated>2021-12-24T02:15:53.216Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=95" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第56话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第55话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93"/>
-        <updated>2021-11-13T05:14:00.707Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第55话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94"/>
+        <updated>2021-11-13T05:14:00.706Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=94" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第55话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第54话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92"/>
-        <updated>2021-11-13T05:14:00.709Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第54话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93"/>
+        <updated>2021-11-13T05:14:00.707Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=93" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第54话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第53话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91"/>
-        <updated>2021-11-13T05:14:00.710Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第53话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92"/>
+        <updated>2021-11-13T05:14:00.709Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=92" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第53话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第52话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90"/>
-        <updated>2021-11-13T05:14:00.711Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第52话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91"/>
+        <updated>2021-11-13T05:14:00.710Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=91" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第52话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第51话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89"/>
-        <updated>2021-11-13T05:14:00.718Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第51话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90"/>
+        <updated>2021-11-13T05:14:00.711Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=90" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第51话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第50话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88"/>
-        <updated>2021-11-13T05:14:00.720Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第50话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89"/>
+        <updated>2021-11-13T05:14:00.718Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=89" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第50话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第49话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87"/>
-        <updated>2021-11-13T05:14:00.721Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第49话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88"/>
+        <updated>2021-11-13T05:14:00.720Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=88" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第49话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第48话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86"/>
-        <updated>2021-11-13T05:14:00.726Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第48话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87"/>
+        <updated>2021-11-13T05:14:00.721Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=87" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第48话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第47话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85"/>
-        <updated>2021-11-13T05:14:00.728Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第47话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86"/>
+        <updated>2021-11-13T05:14:00.726Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=86" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第47话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第46话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84"/>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85"/>
         <updated>2021-11-13T05:14:00.728Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第46话</span></div></a>]]></content>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=85" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第46话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第45话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83"/>
-        <updated>2021-11-13T05:14:00.729Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第45话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84"/>
+        <updated>2021-11-13T05:14:00.728Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=84" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第45话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第44话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82"/>
-        <updated>2021-11-13T05:14:00.730Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第44话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83"/>
+        <updated>2021-11-13T05:14:00.729Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=83" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第44话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第43话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81"/>
-        <updated>2021-11-13T05:14:00.731Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第43话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82"/>
+        <updated>2021-11-13T05:14:00.730Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=82" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第43话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第42话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80"/>
-        <updated>2021-11-13T05:14:00.732Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第42话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81"/>
+        <updated>2021-11-13T05:14:00.731Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=81" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第42话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第41话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79"/>
-        <updated>2021-11-13T05:14:00.734Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第41话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80"/>
+        <updated>2021-11-13T05:14:00.732Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=80" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第41话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第40话 (博人传BORUTO)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=78</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=78"/>
-        <updated>2021-11-13T05:14:00.737Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=78" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第40话</span></div></a>]]></content>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79"/>
+        <updated>2021-11-13T05:14:00.734Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=borenchuanboruto-anbenqishichibenganxiong&amp;section_slot=0&amp;chapter_slot=79" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第40话</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[713 降临旧穹渊 (妹子与科学)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=726</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=726"/>
+        <updated>2022-06-24T03:25:05.539Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=726" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">713 降临旧穹渊</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[712  狙击神明？ (妹子与科学)]]></title>
@@ -2854,11 +2861,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=703" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">690 最大的错误</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[689 碧眼黑龙 (妹子与科学)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=702</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=702"/>
-        <updated>2022-04-01T03:06:23.455Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=702" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">689 碧眼黑龙</span></div></a>]]></content>
+        <title type="html"><![CDATA[549、付老板 (食色大陆)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=553</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=553"/>
+        <updated>2022-06-24T03:25:09.861Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=553" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">549、付老板</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[548、斩 (食色大陆)]]></title>
@@ -3022,11 +3029,18 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=530" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">526、过去</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[525、插翅难飞 (食色大陆)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=529</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=529"/>
-        <updated>2022-03-09T13:38:10.423Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=529" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">525、插翅难飞</span></div></a>]]></content>
+        <title type="html"><![CDATA[第779回 (重生之都市修仙)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=792</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=792"/>
+        <updated>2022-06-24T03:25:13.939Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=792" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第779回</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第778回 (重生之都市修仙)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=791</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=791"/>
+        <updated>2022-06-24T03:25:13.939Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=791" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第778回</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第777回 (重生之都市修仙)]]></title>
@@ -3183,18 +3197,11 @@
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=769" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第756回</span></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第755回 (重生之都市修仙)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=768</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=768"/>
-        <updated>2022-05-03T03:12:56.896Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=768" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第755回</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第754回 (重生之都市修仙)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=767</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=767"/>
-        <updated>2022-05-01T03:25:57.450Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongshengzhidushixiuxian-daxingdaodongman&amp;section_slot=0&amp;chapter_slot=767" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第754回</span></div></a>]]></content>
+        <title type="html"><![CDATA[第560话 (星武神决)]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=566</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=566"/>
+        <updated>2022-06-24T03:25:18.025Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=566" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第560话</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第559话 (星武神决)]]></title>
@@ -3356,12 +3363,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=543"/>
         <updated>2022-03-26T13:38:05.308Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=543" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第537话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第536话 (星武神决)]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=542</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=542"/>
-        <updated>2022-03-26T13:38:05.309Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman&amp;section_slot=0&amp;chapter_slot=542" rel="noreferrer" class="comics-chapters__item" data-v-9a7b0fc8=""><div style="flex: 1;" data-v-9a7b0fc8=""><span data-v-9a7b0fc8="">第536话</span></div></a>]]></content>
     </entry>
 </feed>
