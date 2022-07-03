@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-07-02T03:27:22.220Z</updated>
+    <updated>2022-07-03T03:21:20.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第932话 初登天极塔]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=958</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=958"/>
+        <updated>2022-07-03T03:20:41.129Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=958" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第932话 初登天极塔</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第931话 情窦初开]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=957</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=935"/>
         <updated>2022-07-02T03:26:39.840Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=935" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第909 危机暗涌</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第908话 逼不得已]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=934</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=934"/>
-        <updated>2022-07-02T03:26:39.842Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=934" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第908话 逼不得已</span></div></a>]]></content>
     </entry>
 </feed>
