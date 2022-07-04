@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zuiqiangfantaoluxitong-chuyingshe</id>
     <title>最强反套路系统</title>
-    <updated>2022-07-03T13:42:07.449Z</updated>
+    <updated>2022-07-04T03:29:12.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[624蛊惑]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=628</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=628"/>
+        <updated>2022-07-04T03:28:20.878Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=628" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">624蛊惑</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[623庆贺]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=627</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=605"/>
         <updated>2022-07-03T03:20:28.435Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=605" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">601时间流速</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[600神秘洞穴]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=604</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=604"/>
-        <updated>2022-07-03T03:20:28.437Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zuiqiangfantaoluxitong-chuyingshe_d&amp;section_slot=0&amp;chapter_slot=604" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">600神秘洞穴</span></div></a>]]></content>
     </entry>
 </feed>
