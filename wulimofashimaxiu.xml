@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wulimofashimaxiu-jiabenyi</id>
     <title>物理魔法使马修</title>
-    <updated>2022-07-05T14:00:41.648Z</updated>
+    <updated>2022-07-07T03:33:31.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第114话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=118</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=118"/>
+        <updated>2022-07-07T03:33:02.856Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=118" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第114话</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第113话]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=117</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=95"/>
         <updated>2022-04-16T13:40:15.028Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=95" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第91话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[番外篇05]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=94</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=94"/>
-        <updated>2022-04-16T13:40:15.029Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wulimofashimaxiu-jiabenyi&amp;section_slot=0&amp;chapter_slot=94" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">番外篇05</span></div></a>]]></content>
     </entry>
 </feed>

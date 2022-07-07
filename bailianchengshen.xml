@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-07-05T14:00:41.640Z</updated>
+    <updated>2022-07-07T03:33:31.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第933话 无踪幻影]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=959</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=959"/>
+        <updated>2022-07-07T03:32:54.806Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=959" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第933话 无踪幻影</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第932话 初登天极塔]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=958</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=936"/>
         <updated>2022-07-02T03:26:39.838Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=936" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第910话 混淆视听</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第909 危机暗涌]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=935</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=935"/>
-        <updated>2022-07-02T03:26:39.840Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=935" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第909 危机暗涌</span></div></a>]]></content>
     </entry>
 </feed>

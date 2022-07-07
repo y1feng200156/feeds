@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2022-07-05T14:00:41.638Z</updated>
+    <updated>2022-07-07T03:33:31.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第386話2 妖血祭]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=666</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=666"/>
+        <updated>2022-07-07T03:32:11.934Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=666" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第386話2 妖血祭</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第386話1 妖血祭]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=665</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=643"/>
         <updated>2022-07-02T03:25:50.336Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=643" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第376話1 一轉形式</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第375話2 不留餘力]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=642</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=642"/>
-        <updated>2022-07-02T03:25:50.340Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman_c&amp;section_slot=0&amp;chapter_slot=642" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第375話2 不留餘力</span></div></a>]]></content>
     </entry>
 </feed>

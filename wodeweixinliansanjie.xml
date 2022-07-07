@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wodeweixinliansanjie-iciyuandongman</id>
     <title>我的微信连三界</title>
-    <updated>2022-07-05T14:00:41.629Z</updated>
+    <updated>2022-07-07T03:33:31.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第529话 谁也不能阻止我变强]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=529</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=529"/>
+        <updated>2022-07-07T03:32:16.254Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=529" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第529话 谁也不能阻止我变强</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第526话 居然和我玩瞳术！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=528</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=506"/>
         <updated>2022-07-04T03:27:54.958Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=506" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第504话 他们跑不了！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第503话 几个蟊贼罢了]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=505</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=505"/>
-        <updated>2022-07-04T03:27:54.979Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wodeweixinliansanjie-iciyuandongman_i&amp;section_slot=0&amp;chapter_slot=505" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第503话 几个蟊贼罢了</span></div></a>]]></content>
     </entry>
 </feed>
