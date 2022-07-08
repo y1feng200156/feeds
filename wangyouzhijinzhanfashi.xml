@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangyouzhijinzhanfashi-samanhua</id>
     <title>网游之近战法师</title>
-    <updated>2022-07-07T03:33:31.828Z</updated>
+    <updated>2022-07-08T03:23:50.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第431话 登高]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=451</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=451"/>
+        <updated>2022-07-08T03:22:44.250Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=451" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第431话 登高</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加更通知]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=450</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=428"/>
         <updated>2022-07-04T03:27:59.415Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=428" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第409话 恶人有恶报1</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第408话 暗中博弈3]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=427</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=427"/>
-        <updated>2022-07-04T03:27:59.424Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangyouzhijinzhanfashi-samanhua_k&amp;section_slot=0&amp;chapter_slot=427" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第408话 暗中博弈3</span></div></a>]]></content>
     </entry>
 </feed>
