@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-07-08T03:23:50.310Z</updated>
+    <updated>2022-07-08T14:02:59.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第934话 腾蛇噬影]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=960</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=960"/>
+        <updated>2022-07-08T14:02:20.803Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=960" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第934话 腾蛇噬影</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第933话 无踪幻影]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=959</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=937"/>
         <updated>2022-07-02T03:26:39.837Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=937" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第911话 最终凶物</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第910话 混淆视听]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=936</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=936"/>
-        <updated>2022-07-02T03:26:39.838Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe_b&amp;section_slot=0&amp;chapter_slot=936" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第910话 混淆视听</span></div></a>]]></content>
     </entry>
 </feed>
