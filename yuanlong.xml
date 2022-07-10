@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-07-08T14:02:59.965Z</updated>
+    <updated>2022-07-10T13:42:37.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[325 元魂晋级]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=331</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=331"/>
+        <updated>2022-07-10T13:41:44.895Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=331" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">325 元魂晋级</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[324 第一的真正实力！]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=330</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=330"/>
+        <updated>2022-07-10T13:41:44.896Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=330" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">324 第一的真正实力！</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[323 各自为战！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=329</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=308"/>
         <updated>2022-07-02T03:26:30.439Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=308" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">302 你完蛋了！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[301 攻心计]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=307</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=307"/>
-        <updated>2022-07-02T03:26:30.442Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=307" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">301 攻心计</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300 大张旗鼓]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=306</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=306"/>
-        <updated>2022-07-02T03:26:30.444Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_f&amp;section_slot=0&amp;chapter_slot=306" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">300 大张旗鼓</span></div></a>]]></content>
     </entry>
 </feed>

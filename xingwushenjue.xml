@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/xingwushenjue-taxuedongman</id>
     <title>星武神决</title>
-    <updated>2022-07-08T14:02:59.962Z</updated>
+    <updated>2022-07-10T13:42:37.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第565话]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=571</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=571"/>
+        <updated>2022-07-10T13:42:36.679Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=571" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第565话</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第564话]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=570</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=548"/>
         <updated>2022-07-04T03:29:11.519Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=548" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第542话</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第541话]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=547</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=547"/>
-        <updated>2022-07-04T03:29:11.520Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=xingwushenjue-taxuedongman_m&amp;section_slot=0&amp;chapter_slot=547" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第541话</span></div></a>]]></content>
     </entry>
 </feed>
