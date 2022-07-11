@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangpaiyushi-tongyao</id>
     <title>王牌御史</title>
-    <updated>2022-07-10T13:42:37.524Z</updated>
+    <updated>2022-07-11T13:59:09.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[621，你也配？]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=636</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=636"/>
+        <updated>2022-07-11T13:57:59.154Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=636" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">621，你也配？</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[620，都是散仙家属啊]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=635</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=613"/>
         <updated>2022-07-03T13:40:58.858Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=613" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">598,原创才是出路！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[597，愤怒让人失智]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=612</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=612"/>
-        <updated>2022-07-03T13:40:58.860Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao_s&amp;section_slot=0&amp;chapter_slot=612" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">597，愤怒让人失智</span></div></a>]]></content>
     </entry>
 </feed>
