@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/shisedalu-daoruisi</id>
     <title>食色大陆</title>
-    <updated>2022-07-14T03:32:25.542Z</updated>
+    <updated>2022-07-15T03:36:14.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[555、寿礼]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=559</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=559"/>
+        <updated>2022-07-15T03:36:06.442Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=559" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">555、寿礼</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[554、山火]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=558</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=536"/>
         <updated>2022-07-13T03:23:51.843Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=536" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">532、生火</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[531、和解]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=535</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=535"/>
-        <updated>2022-07-13T03:23:51.844Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=535" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">531、和解</span></div></a>]]></content>
     </entry>
 </feed>
