@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe</id>
     <title>关于我转生变成史莱姆这档事</title>
-    <updated>2022-07-23T03:18:55.330Z</updated>
+    <updated>2022-07-27T14:00:02.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[98 过程汇报]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=100</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=100"/>
+        <updated>2022-07-27T13:59:38.512Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=100" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">98 过程汇报</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[97 至死者的祝福]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=99</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=77"/>
         <updated>2022-07-13T03:23:34.495Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=77" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">75 人魔会谈2</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[74 人魔会谈1]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=76</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=76"/>
-        <updated>2022-07-13T03:23:34.496Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=guanyuwozhuanshengbianchengshilaimuzhedangshi-fulaichuanshangtaishujiangtanshe&amp;section_slot=0&amp;chapter_slot=76" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">74 人魔会谈1</span></div></a>]]></content>
     </entry>
 </feed>
