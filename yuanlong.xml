@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-09-01T13:53:46.266Z</updated>
+    <updated>2022-09-02T13:54:47.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[344 最后一剑]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=350</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=350"/>
+        <updated>2022-09-02T13:54:03.934Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=350" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">344 最后一剑</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[343 一辈子呆在黑棺中吧！]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=349</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=327"/>
         <updated>2022-09-01T13:53:00.097Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=327" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">321 幻化的花瓣</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[320 阻拦的对决！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=326</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=326"/>
-        <updated>2022-09-01T13:53:00.103Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=326" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">320 阻拦的对决！</span></div></a>]]></content>
     </entry>
 </feed>
