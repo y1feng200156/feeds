@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wuzhizhuansheng-huzikawayuka</id>
     <title>无职转生</title>
-    <updated>2022-09-09T03:44:06.223Z</updated>
+    <updated>2022-09-12T04:09:04.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[第81话 婚宴（后篇）]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=98</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=98"/>
+        <updated>2022-09-12T04:08:23.492Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=98" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第81话 婚宴（后篇）</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第83话 信]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=97</id>
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=97"/>
         <updated>2022-08-02T13:56:19.282Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=97" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第81话 婚宴（后篇）</span></div></a>]]></content>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=97" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第83话 信</span></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第82话 有家的生活]]></title>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=75"/>
         <updated>2021-11-03T04:39:19.820Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=75" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第64.5话 佐尔达特.黑克勒篇</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第64话 真正的心情]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=74</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=74"/>
-        <updated>2021-11-03T04:39:19.821Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wuzhizhuansheng-huzikawayuka&amp;section_slot=0&amp;chapter_slot=74" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第64话 真正的心情</span></div></a>]]></content>
     </entry>
 </feed>

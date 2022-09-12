@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-09-09T03:44:06.225Z</updated>
+    <updated>2022-09-12T04:09:04.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[349 玉石被盗]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=355</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=355"/>
+        <updated>2022-09-12T04:08:19.662Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=355" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">349 玉石被盗</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[348 另一块玉石所在地]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=354</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=354"/>
+        <updated>2022-09-12T04:08:19.664Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=354" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">348 另一块玉石所在地</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[347 逃离元魂空间]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=353</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=332"/>
         <updated>2022-09-01T13:53:00.082Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=332" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">326 老君观</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[325 元魂晋级]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=331</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=331"/>
-        <updated>2022-09-01T13:53:00.084Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=331" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">325 元魂晋级</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[324 第一的真正实力！]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=330</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=330"/>
-        <updated>2022-09-01T13:53:00.086Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=330" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">324 第一的真正实力！</span></div></a>]]></content>
     </entry>
 </feed>
