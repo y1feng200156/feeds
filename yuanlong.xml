@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-09-12T14:05:43.385Z</updated>
+    <updated>2022-09-16T04:08:42.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[350 怪异之锁]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=356</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=356"/>
+        <updated>2022-09-16T04:07:59.860Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=356" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">350 怪异之锁</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[349 玉石被盗]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=355</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=333"/>
         <updated>2022-09-01T13:53:00.080Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=333" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">327 神树的秘密！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[326 老君观]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=332</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=332"/>
-        <updated>2022-09-01T13:53:00.082Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=332" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">326 老君观</span></div></a>]]></content>
     </entry>
 </feed>
