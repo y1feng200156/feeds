@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-09-22T03:58:27.943Z</updated>
+    <updated>2022-09-23T04:03:22.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[352 壁画之中]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=358</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=358"/>
+        <updated>2022-09-23T04:02:37.203Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=358" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">352 壁画之中</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[351 钓大鱼]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=357</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=335"/>
         <updated>2022-09-01T13:53:00.076Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=335" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">329 召唤的仪式！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[328 黄雀在后]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=334</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=334"/>
-        <updated>2022-09-01T13:53:00.079Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=334" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">328 黄雀在后</span></div></a>]]></content>
     </entry>
 </feed>
