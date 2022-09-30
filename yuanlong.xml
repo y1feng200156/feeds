@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua</id>
     <title>元龙</title>
-    <updated>2022-09-29T14:09:11.519Z</updated>
+    <updated>2022-09-30T14:12:48.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[354 对付吕温侯的那个地方]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=360</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=360"/>
+        <updated>2022-09-30T14:12:06.419Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=360" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">354 对付吕温侯的那个地方</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[353 王胜遇险]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=359</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=337"/>
         <updated>2022-09-01T13:53:00.072Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=337" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">331 面具下的新来客！</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[330 无忧城的圈套]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=336</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=336"/>
-        <updated>2022-09-01T13:53:00.074Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yuanlong-dianguangsheyuanzhurenyuanwenyuanwenhua_a&amp;section_slot=0&amp;chapter_slot=336" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">330 无忧城的圈套</span></div></a>]]></content>
     </entry>
 </feed>
