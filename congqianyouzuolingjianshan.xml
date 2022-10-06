@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/congqianyouzuolingjianshan-xianmanwenhua</id>
     <title>从前有座灵剑山</title>
-    <updated>2022-10-05T03:20:17.378Z</updated>
+    <updated>2022-10-06T14:13:39.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第八百一十三章]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=831</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=831"/>
+        <updated>2022-10-06T14:13:08.220Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=831" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第八百一十三章</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第八百一十二章]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=830</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=808"/>
         <updated>2022-07-18T03:27:43.841Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=808" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">暑期欢乐“兑兑兑”</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第七百九十章]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=807</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=807"/>
-        <updated>2022-07-18T03:27:43.844Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=807" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第七百九十章</span></div></a>]]></content>
     </entry>
 </feed>

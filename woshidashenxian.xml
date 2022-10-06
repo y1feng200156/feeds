@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/woshidashenxian-shengshiqiaman</id>
     <title>我是大神仙</title>
-    <updated>2022-10-05T03:20:17.346Z</updated>
+    <updated>2022-10-06T14:13:39.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第五三八话·会 面]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=554</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=554"/>
+        <updated>2022-10-06T14:12:48.034Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=554" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五三八话·会 面</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第五三七话·猎食者]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=553</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=531"/>
         <updated>2022-07-18T03:27:21.450Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=531" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五一五话·入 口</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第五一四话·遗 物]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=530</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=530"/>
-        <updated>2022-07-14T03:31:37.322Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=530" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五一四话·遗 物</span></div></a>]]></content>
     </entry>
 </feed>
