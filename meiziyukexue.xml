@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/meiziyukexue-zhazhushidede</id>
     <title>妹子与科学</title>
-    <updated>2022-10-16T13:58:19.762Z</updated>
+    <updated>2022-10-20T03:46:22.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[746 神力因子]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=761</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=761"/>
+        <updated>2022-10-20T03:46:08.251Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=761" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">746 神力因子</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[745 揪头发]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=760</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=738"/>
         <updated>2022-08-02T03:45:03.407Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=738" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">724  不会输</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[723  我来对付他]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=737</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=737"/>
-        <updated>2022-08-02T03:45:03.408Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=meiziyukexue-zhazhushidede&amp;section_slot=0&amp;chapter_slot=737" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">723  我来对付他</span></div></a>]]></content>
     </entry>
 </feed>

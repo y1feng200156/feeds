@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/congqianyouzuolingjianshan-xianmanwenhua</id>
     <title>从前有座灵剑山</title>
-    <updated>2022-10-16T13:58:19.694Z</updated>
+    <updated>2022-10-20T03:46:22.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第八百一十七章]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=835</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=835"/>
+        <updated>2022-10-20T03:45:46.313Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=835" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第八百一十七章</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第八百一十六章]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=834</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=834"/>
+        <updated>2022-10-20T03:45:46.314Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=834" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第八百一十六章</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第八百一十五章]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=833</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=812"/>
         <updated>2022-07-31T13:43:45.978Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=812" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第七百九十四章</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第七百九十三章]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=811</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=811"/>
-        <updated>2022-07-28T03:22:15.147Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=811" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第七百九十三章</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第七百九十二章]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=810</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=810"/>
-        <updated>2022-07-27T13:59:30.933Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=congqianyouzuolingjianshan-xianmanwenhua&amp;section_slot=0&amp;chapter_slot=810" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第七百九十二章</span></div></a>]]></content>
     </entry>
 </feed>

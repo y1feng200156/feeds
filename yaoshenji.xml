@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2022-10-16T13:58:19.678Z</updated>
+    <updated>2022-10-20T03:46:22.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第401話2 平衡]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=696</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=696"/>
+        <updated>2022-10-20T03:44:53.941Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=696" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第401話2 平衡</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第401話1 平衡]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=695</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=673"/>
         <updated>2022-07-30T03:30:02.309Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=673" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第390話1 外圍</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第389話2 偷襲]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=672</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=672"/>
-        <updated>2022-07-27T13:58:44.533Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=672" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第389話2 偷襲</span></div></a>]]></content>
     </entry>
 </feed>

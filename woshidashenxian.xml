@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/woshidashenxian-shengshiqiaman</id>
     <title>我是大神仙</title>
-    <updated>2022-10-16T13:58:19.703Z</updated>
+    <updated>2022-10-20T03:46:22.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第五四二话·各自为营]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=558</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=558"/>
+        <updated>2022-10-20T03:45:21.961Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=558" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五四二话·各自为营</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第五四一话·有我在]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=557</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=557"/>
+        <updated>2022-10-20T03:45:21.963Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=557" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五四一话·有我在</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第五四零话·齐心协力]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=556</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=535"/>
         <updated>2022-08-02T03:44:29.999Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=535" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五一九话·排 位</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第五一八话·藏不住了]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=534</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=534"/>
-        <updated>2022-07-28T03:21:55.975Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=534" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五一八话·藏不住了</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第五一七话·云 念]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=533</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=533"/>
-        <updated>2022-07-27T13:59:10.720Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=woshidashenxian-shengshiqiaman&amp;section_slot=0&amp;chapter_slot=533" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第五一七话·云 念</span></div></a>]]></content>
     </entry>
 </feed>

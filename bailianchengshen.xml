@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-10-16T13:58:19.760Z</updated>
+    <updated>2022-10-20T03:46:22.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第980话 夜明神城]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1007</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1007"/>
+        <updated>2022-10-20T03:45:40.371Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1007" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第980话 夜明神城</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第979话 血脉荒骨]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1006</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=984"/>
         <updated>2022-09-02T13:54:11.752Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=984" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第958话 自食其果</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第957话 血浓于水]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=983</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=983"/>
-        <updated>2022-09-01T13:53:08.542Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=983" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">第957话 血浓于水</span></div></a>]]></content>
     </entry>
 </feed>
