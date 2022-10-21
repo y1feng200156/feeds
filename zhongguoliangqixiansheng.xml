@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/zhongguoliangqixiansheng-quanyingsheng</id>
     <title>中国惊奇先生</title>
-    <updated>2022-10-20T03:46:22.741Z</updated>
+    <updated>2022-10-21T14:23:57.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1388 敛财]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1387</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1387"/>
+        <updated>2022-10-21T14:23:04.908Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1387" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">1388 敛财</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1387 狼人]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1386</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1364"/>
         <updated>2022-09-08T03:48:02.964Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1364" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">1365 偷窥</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1364 家族模式]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1363</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1363"/>
-        <updated>2022-09-08T03:48:02.968Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=zhongguoliangqixiansheng-quanyingsheng&amp;section_slot=0&amp;chapter_slot=1363" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">1364 家族模式</span></div></a>]]></content>
     </entry>
 </feed>

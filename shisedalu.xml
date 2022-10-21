@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/shisedalu-daoruisi</id>
     <title>食色大陆</title>
-    <updated>2022-10-20T03:46:22.782Z</updated>
+    <updated>2022-10-21T14:23:57.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[573、败者的自信]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=574</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=574"/>
+        <updated>2022-10-21T14:23:49.647Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=574" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">573、败者的自信</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[572、传播根源]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=573</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=551"/>
         <updated>2022-07-13T03:23:51.808Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=551" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">550、烹饪系导师</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[549、付老板]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=550</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=550"/>
-        <updated>2022-07-13T03:23:51.808Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=shisedalu-daoruisi&amp;section_slot=0&amp;chapter_slot=550" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">549、付老板</span></div></a>]]></content>
     </entry>
 </feed>

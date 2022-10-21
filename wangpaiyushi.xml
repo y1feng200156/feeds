@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangpaiyushi-tongyao</id>
     <title>王牌御史</title>
-    <updated>2022-10-20T03:46:22.747Z</updated>
+    <updated>2022-10-21T14:23:57.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[636，初心不改]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=651</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=651"/>
+        <updated>2022-10-21T14:22:57.083Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=651" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">636，初心不改</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[635，打不到你的，只会让你更]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=650</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=628"/>
         <updated>2022-07-13T03:22:57.019Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=628" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">613，冥界事件的尾声（上）</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[612，答案]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=627</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=627"/>
-        <updated>2022-07-13T03:22:57.019Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=627" class="comics-chapters__item" data-v-2937c700=""><div style="flex: 1;" data-v-2937c700=""><span data-v-2937c700="">612，答案</span></div></a>]]></content>
     </entry>
 </feed>
