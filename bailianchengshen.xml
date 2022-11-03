@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/bailianchengshen-fengxingzhe</id>
     <title>百炼成神</title>
-    <updated>2022-11-01T02:17:43.793Z</updated>
+    <updated>2022-11-03T02:15:44.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第986话 轩辕战书]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1014</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1014"/>
+        <updated>2022-11-03T02:15:04.562Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1014" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第986话 轩辕战书</span></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第987话 肉身劫数]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1013</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1013"/>
+        <updated>2022-11-03T02:15:04.562Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1013" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第987话 肉身劫数</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第985话 王品血脉]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=1012</id>
@@ -158,19 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=991"/>
         <updated>2022-09-17T13:50:16.251Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=991" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第965话 操控神域</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第964话 各自筹谋]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=990</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=990"/>
-        <updated>2022-09-16T04:08:07.296Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=990" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第964话 各自筹谋</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第963话 大胜而归]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=989</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=989"/>
-        <updated>2022-09-16T04:08:07.296Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=bailianchengshen-fengxingzhe&amp;section_slot=0&amp;chapter_slot=989" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第963话 大胜而归</span></div></a>]]></content>
     </entry>
 </feed>

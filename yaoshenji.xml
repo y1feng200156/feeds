@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.baozimh.com/comic/yaoshenji-taxuedongman</id>
     <title>妖神记</title>
-    <updated>2022-11-01T02:17:43.763Z</updated>
+    <updated>2022-11-03T02:15:44.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第403話2 空靈石陣]]></title>
+        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=700</id>
+        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=700"/>
+        <updated>2022-11-03T02:14:18.623Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=700" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第403話2 空靈石陣</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第403話1 空靈石陣]]></title>
         <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=699</id>
@@ -165,12 +172,5 @@
         <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=677"/>
         <updated>2022-08-15T03:36:13.715Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=677" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第392話1 運氣不好</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第391話2 天鎖銘紋陣]]></title>
-        <id>https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=676</id>
-        <link href="https://www.baozimh.com/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=676"/>
-        <updated>2022-08-10T13:50:49.121Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=yaoshenji-taxuedongman&amp;section_slot=0&amp;chapter_slot=676" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">第391話2 天鎖銘紋陣</span></div></a>]]></content>
     </entry>
 </feed>
