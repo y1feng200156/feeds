@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.baozimh.com/comic/wangpaiyushi-tongyao</id>
     <title>王牌御史</title>
-    <updated>2022-11-03T02:15:44.490Z</updated>
+    <updated>2022-11-07T02:14:52.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cn.baozimh.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[638，群英荟萃]]></title>
+        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=653</id>
+        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=653"/>
+        <updated>2022-11-07T02:13:47.759Z</updated>
+        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=653" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">638，群英荟萃</span></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[637，每人癖好不同啦……]]></title>
         <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=652</id>
@@ -165,12 +172,5 @@
         <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=630"/>
         <updated>2022-07-13T03:22:57.019Z</updated>
         <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=630" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">615，群仙会</span></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[614，冥界事件的尾声（下）]]></title>
-        <id>https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=629</id>
-        <link href="https://cn.baozimh.com/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=629"/>
-        <updated>2022-07-13T03:22:57.019Z</updated>
-        <content type="html"><![CDATA[<a href="/user/page_direct?comic_id=wangpaiyushi-tongyao&amp;section_slot=0&amp;chapter_slot=629" rel="noopener" class="comics-chapters__item" data-v-0c0802bc=""><div style="flex: 1;" data-v-0c0802bc=""><span data-v-0c0802bc="">614，冥界事件的尾声（下）</span></div></a>]]></content>
     </entry>
 </feed>
